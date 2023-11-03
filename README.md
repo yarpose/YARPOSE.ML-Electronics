@@ -59,8 +59,6 @@ The contents of this project are ready to use for secod year undergraduate cours
  2. Electronics I
  3. Electronic Circuit Theory.
 
-
-
 ![Startup](media/ML-Electronics.gif)
 
 
