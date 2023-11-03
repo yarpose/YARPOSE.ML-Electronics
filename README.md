@@ -4,18 +4,18 @@ By [Ali Jaberi](https://www.linkedin.com/in/alijaberii/) and [M. B. Ghaznavi-Gho
 Version 2023.01
 
 A Full open-source/Full with Python/ interactive course for all who like to know "What is electronics?" from scratch to basic applications.
-This is the repo of **ML-Assisted Basics of Electronics for ALL**  project. It brings ALL of **Basic Elctronics** into browser via Python jupyter including examples, plots, equations, simulations and narration. The narrations of text is generated via ML tools.
+This is the repo of **ML-Assisted Basics of Electronics for ALL**  project. It brings ALL of **Basic Electronics** into browser via Python jupyter including examples, plots, equations, simulations and narration. The narrations of text is generated via ML tools.
 
 
 This project is based on:
 
 1. Python
-2. Jupyetr notebook and runnable on Google colab
+2. Jupyter notebook and run-able on Google colab
 3. schemdraw library
 4. PySpice simulation wrapper
 5. ElevenLabs.io (ML generated human voices for whole the project)
 6. Good learning resources
-7. ... and days and hours of hardwork 
+7. ... and days and hours of hard work 
 
 
 
@@ -29,8 +29,10 @@ This project is based on:
 6. How to install and use required tools/libraries
 7. Project Codes All-In-One (AIO)
 
+# Main features:
+
 # ALL Circuit are drawn via Python in Jypyter
-ALL the schmatics of the circuits are reporduced utilizing ```schemdraw``` python library.
+ALL the schematics of the circuits are reproduced utilizing ```schemdraw``` python library.
 
 # Circuit simulation utilizing PySpice
 ALL the simulations of the circuits are performed utilizing ```PySpice``` python library.
@@ -48,13 +50,13 @@ ALL the interactive features in circuit re-draw and parameter modifications are 
 ALL of codes, figures, ipynb, docx are ready to download and re-use under the copyright notice verbatim. 
 
 # Unique "Spoon" style of Jupyter Python coding 
-We followed stand-alone coding for each example just like insert your spoon in Dessert and eat each section without need to run its upper or lower jupyter cells which usually you see in the most of ```jupyter notebooks``` samples. This enables reader to look at each example as a fully seperated and functional code.
+We followed stand-alone coding for each example just like insert your spoon in Dessert and eat each section without need to run its upper or lower jupyter cells which usually you see in the most of ```jupyter notebooks``` samples. This enables reader to look at each example as a fully separated and functional code.
 
 # Fully open-source course
-The project is totally open-source in hope of help to extended ease of undersating for "Basics of Electronics".
+The project is totally open-source in hope of help to extended ease of understating for "Basics of Electronics".
 
 # Contests are in Compliance with "Basics of Electronic Circuits - Electronics I"
-The contents of this project are ready to use for secod year undergraduate courses like:
+The contents of this project are ready to use for  second year undergraduate courses like:
  1. Basics of Electronics
  2. Electronics I
  3. Electronic Circuit Theory.
