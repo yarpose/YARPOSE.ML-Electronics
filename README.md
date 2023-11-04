@@ -85,7 +85,7 @@ You can reach us from the following links:
 
 
 <p>
-  <a href="https://www.linkedin.com/in/ghaznavi-ghoushchi" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/alijaberii/" rel="nofollow noreferrer">
     <img src="media/LI.png" alt="linkedin"> Ali Jaberi
   </a>
   <br>
