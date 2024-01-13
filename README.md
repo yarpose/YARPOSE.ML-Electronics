@@ -31,7 +31,7 @@ This project is based on:
 
 # Main features:
 
-# ALL Circuit are drawn via Python in Jypyter
+# ALL Circuits are drawn via Python in Jypyter
 ALL the schematics of the circuits are reproduced utilizing ```schemdraw``` python library.
 
 # Circuit simulation utilizing PySpice
