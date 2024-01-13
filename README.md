@@ -55,7 +55,7 @@ We followed stand-alone coding for each example just like insert your spoon in D
 # Fully open-source course
 The project is totally open-source in hope of help to extended ease of understating for "Basics of Electronics".
 
-# Contests are in Compliance with "Basics of Electronic Circuits - Electronics I"
+# Contents are in Compliance with "Basics of Electronic Circuits - Electronics I"
 The contents of this project are ready to use for  second year undergraduate courses like:
  1. Basics of Electronics
  2. Electronics I
